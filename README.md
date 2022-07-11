@@ -14,8 +14,6 @@ IDE: Visual Studio Code.
     Lista de extenciones utilizadas:
         -Pylance
         -Python
-        -Git Base
-        -GitHub
 
 Entorno: Se utiliza "Docker".
 
