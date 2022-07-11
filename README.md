@@ -1,10 +1,13 @@
 # Facturacion
+
 Programa de facturación multipropósito
 
-## Herramientas utilizadas en este projecto:
+## Herramientas utilizadas en este projecto
+
 Herramientas de gestión del tiempo y avance del projecto y librerías a dominar.
 
-### Herramientas de gestión:
+### Herramientas de gestión
+
 Organización: Tablero de Trello.
 
 IDE: Visual Studio Code.
@@ -16,7 +19,8 @@ IDE: Visual Studio Code.
 
 Entorno: Se utiliza "Docker".
 
-### Librerías:
+### Librerías
+
 -Pandas dataFrame
 -[Interfaces de usuario]
 -[Conectarse a AFIP]
